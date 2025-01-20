@@ -7,7 +7,12 @@ Welcome to Harley's Clan Forum! These Terms of Service ("Terms") govern your use
 By using Harley's Clan Forum, you confirm that you are at least 13 years old or that you have the consent of a parent or guardian.
 
 2. User Accounts
-To use certain features of Harley's Clan Forum, you may need to connect your account using Discord, Google, or our own system. You agree to provide accurate and complete information during registration and to keep it updated.
+To use certain features of Harley's Clan Forum, you may need to connect your account using one of the following methods:
+
+Discord: Use your Discord credentials for quick access.
+Password-Based: Set up a secure password during registration.
+Passwordless: Enjoy a seamless experience by verifying your login via a unique, time-sensitive link sent to your email.
+You agree to provide accurate and complete information during registration and to keep it updated.
 
 3. Use of Services
 You agree to use Harley's Clan Forum only for lawful purposes and in accordance with these Terms. You must not:
@@ -36,5 +41,5 @@ We may revise these Terms from time to time. We will notify you of any changes b
 10. Contact Us
 If you have any questions about these Terms, please contact us via the following:
 
-Harley's Clan Forum Discord Server [Official]
-Harley's Clan Forum Website
+Harley's Clan Forum Discord Server [Official] - clan.harleytg.online
+Harley's Clan Forum Website - forum.harleytg.online
