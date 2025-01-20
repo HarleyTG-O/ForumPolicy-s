@@ -1,0 +1,33 @@
+Understanding the No-Reply Email - Harley's Clan Forum
+Effective Date: 1/1/2025
+
+Introduction
+The email address no-reply@mailsystem.harleytg.online is used for important account-related notifications and is designed to automate the communication process. Please note that this email address is not monitored, and any replies sent to it will not be received.
+
+Here’s an overview of the types of emails you may receive from this address and what to do with them:
+
+1. Account Creation
+If you’ve recently created an account on Harley's Clan Forum, you will receive an email from no-reply@mailsystem.harleytg.online containing a confirmation link. This link is required to activate your account and gain full access to the forum.
+
+What to do: Click the link in the email to activate your account. If you did not initiate the registration, please disregard the email or contact our support team for assistance.
+
+2. Password Reset
+If you’ve requested a password reset, you will receive an email from no-reply@mailsystem.harleytg.online with a unique, time-sensitive password reset link.
+
+What to do: Follow the instructions in the email to reset your password. The link provided will expire in 24 hours, so be sure to complete the process within that time frame. If you did not request a password reset, please contact our support team immediately.
+
+3. Account and Forum Notifications
+From time to time, you may receive notifications about your account, such as password changes, security alerts, or important updates related to forum maintenance. These notifications will also come from no-reply@mailsystem.harleytg.online.
+
+What to do: Read these notifications carefully, as they may require your attention. For example, if your account was suspended or if we detect unusual activity, follow any instructions provided to resolve the issue. If you have questions, please contact support using our official channels.
+
+4. No-Replies and Contacting Support
+Since no-reply@mailsystem.harleytg.online is an automated email address, any replies sent to this address will not be read or responded to. If you need assistance, please reach out to us through one of the following support channels:
+
+Harley's Clan Forum Discord Server [Official] - clan.harleytg.online
+Harley's Clan Forum Website - forum.harleytg.online
+
+5. Why Do We Use a No-Reply Email?
+We use a no-reply email address to streamline our communication with users, ensuring important account-related emails are sent automatically without the need for manual intervention. This helps us maintain the security and integrity of your account while keeping the process efficient.
+
+© 2025 Harley-THE-GAMER (HarleyTG). All Rights Reserved.
